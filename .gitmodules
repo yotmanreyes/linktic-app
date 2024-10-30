@@ -1,12 +1,13 @@
-[submodule "frontend"]
-	path = linktic-frontend
+[submodule "linktic-frontend"]
+	path = frontend
 	url = https://github.com/yotmanreyes/linktic-frontend
-	branch = main
-[submodule "ms-auth"]
-	path = linktic-ms-auth
+[submodule "linktic-ms-auth"]
+	path = ms-auth
 	url = https://github.com/yotmanreyes/linktic-ms-auth.git
-	branch = main
-[submodule "ms-ecommerce"]
-	path = linktic-ecommerce-api
+[submodule "linktic-ecommerce-api"]
+	path = ms-ecommerce
 	url = https://github.com/yotmanreyes/linktic-ecommerce-api
-	branch = main
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/yotmanreyes/linktic-ms-gateway
+
