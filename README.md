@@ -82,6 +82,10 @@ Esto descargará todos los submódulos necesarios automáticamente.
 cd linktic-app
 ```
 
+```bash
+docker-compose up --build
+```
+
 ## Enlaces a Microservicios Específicos
 
 - **API Gateway**  
