@@ -73,3 +73,25 @@ Para clonar el repositorio principal junto con sus submódulos, utiliza el sigui
 ```bash
 git clone --recurse-submodules https://github.com/yotmanreyes/linktic-app.git
 ```
+
+Esto descargará todos los submódulos necesarios automáticamente.
+
+## Navega al Directorio Clonado:
+
+```bash
+cd linktic-app
+```
+
+## Enlaces a Microservicios Específicos
+
+- **API Gateway**  
+  Enlace al repositorio: [API Gateway en Node.js](https://github.com/yotmanreyes/linktic-ms-gateway)
+
+- **Servicio de Autenticación**  
+  Enlace al repositorio: [Servicio de Autenticación](https://github.com/yotmanreyes/linktic-ms-auth)
+
+- **API de E-commerce**  
+  Enlace al repositorio: [Ecommerce API](https://github.com/yotmanreyes/linktic-ecommerce-api)
+
+- **Frontend**  
+  Enlace al repositorio: [Frontend](https://github.com/yotmanreyes/linktic-frontend)
