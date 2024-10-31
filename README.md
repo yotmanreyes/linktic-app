@@ -26,7 +26,7 @@ Aquí deberías incluir el diagrama de alto nivel de la aplicación que ilustra 
 +---------------------+
 |  Microservicio de   |
 |  Autenticación      |
-|   (EC2 + Node.js)   |
+|   (EC2 + Nest js)   |
 +----------+----------+
            |
            v
