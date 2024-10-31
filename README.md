@@ -93,5 +93,6 @@ cd linktic-app
 - **API de E-commerce**  
   Enlace al repositorio: [Ecommerce API](https://github.com/yotmanreyes/linktic-ecommerce-api)
 
-- **Frontend**  
-  Enlace al repositorio: [Frontend](https://github.com/yotmanreyes/linktic-frontend)
+## Frontend
+
+Documentación: [Enlace al repositorio](https://github.com/yotmanreyes/linktic-frontend)
